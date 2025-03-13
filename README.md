@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiho LEE</h1>
-<h3 align="center"> [MJU](https://www.mju.ac.kr/) [CSE](https://jw4.mju.ac.kr/user/cs/index.action) 👨‍💻.</h3>
+<h3 align="center">(MJU)[https://www.mju.ac.kr/] (CSE)[https://jw4.mju.ac.kr/user/cs/index.action] 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziholee&label=Profile%20views&color=0e75b6&style=flat" alt="ziholee" /> </p>
 
