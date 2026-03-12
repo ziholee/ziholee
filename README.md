@@ -21,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziholee&show_icons=true&locale=en" alt="ziholee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=dark" alt="ziholee" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=sakura-x)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=sakura-x" alt="ziholee" /></p>
