@@ -5,9 +5,15 @@
 
 <!-- 프로필 방문자 뱃지 + 소셜 -->
 <img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />
-[![GitHub followers](https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiho-lee-77b29b3b8)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ziholee.github.io)
+<a href="https://github.com/ziholee?tab=followers">
+  <img src="https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github" alt="GitHub followers" />
+</a>
+<a href="https://linkedin.com/in/jiho-lee-77b29b3b8">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://ziholee.github.io">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
 
 ---
 
