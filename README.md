@@ -4,16 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=520&lines=Hi+%F0%9F%91%8B+I'm+Jiho+Lee;AI+Engineer+%7C+DA+%7C+Backend;Always+learning+something+new" alt="Typing SVG" />
 
 <!-- 프로필 방문자 뱃지 + 소셜 -->
-<img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />
-<a href="https://github.com/ziholee?tab=followers">
-  <img src="https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github" alt="GitHub followers" />
-</a>
-<a href="https://linkedin.com/in/jiho-lee-77b29b3b8">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://ziholee.github.io">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-</a>
+<p align="center">
+  <a href="https://github.com/ziholee?tab=followers"><img src="https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github" alt="GitHub followers" /></a>&nbsp;
+  <a href="https://linkedin.com/in/jiho-lee-77b29b3b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://ziholee.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />
+</p>
 
 ---
 
