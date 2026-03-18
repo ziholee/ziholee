@@ -1,7 +1,3 @@
-<!--
-  사용법: YOUR_GITHUB_USERNAME 을 본인 GitHub 아이디로 교체하세요.
-  프로필 전용 README로 쓰려면 저장소 이름을 본인 아이디와 동일하게 만들고(예: leejiho/leejiho) 이 파일을 루트 README.md로 두세요.
--->
 <div align="center">
 
 <!-- 타이핑: readme-typing-svg | 한 줄 수정으로 문구 변경 가능 -->
