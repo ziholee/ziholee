@@ -5,10 +5,11 @@
 
 <!-- 프로필 방문자 뱃지 + 소셜 -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />&nbsp;
   <a href="https://github.com/ziholee?tab=followers"><img src="https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github" alt="GitHub followers" /></a>&nbsp;
+  <a href="https://instagram.com/_275_ss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://linkedin.com/in/jiho-lee-77b29b3b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://ziholee.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
@@ -19,7 +20,7 @@
 <tr>
 <td width="50%">
 
-- **역할** · Backend / AI / Prompt Engineering / DB
+- **역할** · Backend / AI / DB
 - **관심사** · AI 모델 경량화, AI 서비스 개발, API 설계, 성능 최적화, 데이터 분석
 - **현재 공부 중** · SQL, ML/DL, Python, CS
 - **좋아하는 것** · 
@@ -40,8 +41,16 @@
 ### 📊 GitHub Stats & Activity
 
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ziholee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziholee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ziholee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziholee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </td>
+</tr>
+</table>
 
 <!-- Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
@@ -54,7 +63,9 @@
 ### 🏆 Trophies & Achievements
 
 <!-- GitHub Trophies: https://github.com/ryo-ma/github-profile-trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=ziholee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" width="100%" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ziholee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
