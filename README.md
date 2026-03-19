@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />&nbsp;
   <a href="https://github.com/ziholee?tab=followers"><img src="https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github" alt="GitHub followers" /></a>&nbsp;
-  <a href="https://instagram.com/_275_ss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://instagram.com/ziholee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://linkedin.com/in/jiho-lee-77b29b3b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://ziholee.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
 </p>
@@ -23,7 +23,7 @@
 - **역할** · Backend / AI / DB
 - **관심사** · AI 모델 경량화, AI 서비스 개발, API 설계, 성능 최적화, 데이터 분석
 - **현재 공부 중** · SQL, ML/DL, Python, CS
-- **좋아하는 것** · 
+- **좋아하는 것** · 축구, 영화보기 
 
 </td>
 <td width="50%">
@@ -53,18 +53,21 @@
 </table>
 
 <!-- Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 
 <!-- Contribution Snake: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/ziholee/ziholee/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/ziholee/ziholee/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="80%" />
 
 ---
 
-### 🏆 Trophies & Achievements
+### 🔥 Activity (Last 31 days)
 
-<!-- GitHub Trophies: https://github.com/ryo-ma/github-profile-trophy -->
+<!-- GitHub Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziholee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ziholee&theme=github-compact&hide_border=true&radius=16&height=220&days=31"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 ---
@@ -129,6 +132,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" alt="Footer" />
-</div>
-
 </div>
