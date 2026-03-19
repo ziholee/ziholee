@@ -5,11 +5,14 @@
 
 <!-- 프로필 방문자 뱃지 + 소셜 -->
 <p align="center">
+  <!-- 1행: 프로필뷰 / 깃허브 팔로우 / 블로그 -->
   <img src="https://komarev.com/ghpvc/?username=ziholee&style=for-the-badge&color=brightgreen" alt="Profile views" />&nbsp;
   <a href="https://github.com/ziholee?tab=followers"><img src="https://img.shields.io/github/followers/ziholee?style=for-the-badge&logo=github" alt="GitHub followers" /></a>&nbsp;
+  <a href="https://ziholee.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+  <br />
+  <!-- 2행: 인스타 / 링크드인 -->
   <a href="https://instagram.com/ziholee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://linkedin.com/in/jiho-lee-77b29b3b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://ziholee.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
+  <a href="https://linkedin.com/in/jiho-lee-77b29b3b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -53,10 +56,10 @@
 </table>
 
 <!-- Streak: https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziholee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
 <!-- Contribution Snake: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/ziholee/ziholee/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="80%" />
+<img src="https://raw.githubusercontent.com/ziholee/ziholee/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 
 ---
 
