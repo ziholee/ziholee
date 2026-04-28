@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <br />
-  <a href="https://instagram.com/ziholee">
+  <a href="https://instagram.com/_275_ss/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jiho-lee-77b29b3b8">
