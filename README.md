@@ -108,7 +108,7 @@
 
 | 구분 | 내용 |
 |------|------|
-| **수상** | [2026 K리그-서울시립대 공개 AI 경진대회 은상]([https://dacon.io/competitions/official/236648/leaderboard](https://dacon-images.s3.ap-northeast-2.amazonaws.com/datafiles/236648/236648-1-542494.pdf))<br>[2026 명지대학교 캡스톤디자인 경진 대회 금상]() |
+| **수상** | [2026 K리그-서울시립대 공개 AI 경진대회 은상](https://dacon-images.s3.ap-northeast-2.amazonaws.com/datafiles/236648/236648-1-542494.pdf)<br>[2026 명지대학교 캡스톤디자인 경진 대회 금상]() |
 | **발표** | |
 | **글** | |
 | **멘토링** | 2021년 상반기 찾아가는 SW교육기부단 교육봉사 멘토 |
